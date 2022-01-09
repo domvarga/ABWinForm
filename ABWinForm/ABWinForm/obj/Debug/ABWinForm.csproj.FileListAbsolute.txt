@@ -1,0 +1,15 @@
+C:\Users\domiv\source\repos\ABWinForm\ABWinForm\ABWinForm\bin\Debug\szepsegszalon.mdf
+C:\Users\domiv\source\repos\ABWinForm\ABWinForm\ABWinForm\bin\Debug\szepsegszalon_log.ldf
+C:\Users\domiv\source\repos\ABWinForm\ABWinForm\ABWinForm\bin\Debug\ABWinForm.exe.config
+C:\Users\domiv\source\repos\ABWinForm\ABWinForm\ABWinForm\bin\Debug\ABWinForm.exe
+C:\Users\domiv\source\repos\ABWinForm\ABWinForm\ABWinForm\bin\Debug\ABWinForm.pdb
+C:\Users\domiv\source\repos\ABWinForm\ABWinForm\ABWinForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\domiv\source\repos\ABWinForm\ABWinForm\ABWinForm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\domiv\source\repos\ABWinForm\ABWinForm\ABWinForm\obj\Debug\ABWinForm.csproj.AssemblyReference.cache
+C:\Users\domiv\source\repos\ABWinForm\ABWinForm\ABWinForm\obj\Debug\ABWinForm.Form1.resources
+C:\Users\domiv\source\repos\ABWinForm\ABWinForm\ABWinForm\obj\Debug\ABWinForm.Properties.Resources.resources
+C:\Users\domiv\source\repos\ABWinForm\ABWinForm\ABWinForm\obj\Debug\ABWinForm.csproj.GenerateResource.cache
+C:\Users\domiv\source\repos\ABWinForm\ABWinForm\ABWinForm\obj\Debug\ABWinForm.csproj.CoreCompileInputs.cache
+C:\Users\domiv\source\repos\ABWinForm\ABWinForm\ABWinForm\obj\Debug\ABWinForm.csproj.CopyComplete
+C:\Users\domiv\source\repos\ABWinForm\ABWinForm\ABWinForm\obj\Debug\ABWinForm.exe
+C:\Users\domiv\source\repos\ABWinForm\ABWinForm\ABWinForm\obj\Debug\ABWinForm.pdb
